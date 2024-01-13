@@ -1,7 +1,4 @@
-
-Certainly! Here's a description you can use for your README file on GitHub:
-
-E-commerce Product Page
+<h1>E-commerce Product Page</h1>
 This repository contains the code for an E-commerce product page, designed and implemented as a Frontend Mentor challenge. The webpage features a responsive design suitable for both desktop and mobile devices, showcasing Fall Limited Edition Sneakers from a fictional Sneaker Company.
 
 Features:
